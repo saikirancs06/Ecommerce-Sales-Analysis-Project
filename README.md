@@ -62,6 +62,40 @@ Dataset source: https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce
 
 The dataset includes customer, order, product, seller, payment, review, and related e-commerce information.
 
+## SQL Analysis Screenshots
+
+### Q1 & Q2: Total Revenue and Total Orders
+
+![Revenue and Orders](screenshots/01_revenue_analysis.png)
+
+### Q4: Top 10 Products by Revenue
+
+![Top Products](screenshots/02_top_products.png)
+
+### Q5: Top 10 Product Categories by Revenue
+
+![Product Categories](screenshots/03_category_analysis.png)
+
+### Q14 & Q15: Customer Count and Revenue by State
+
+![State Analysis](screenshots/04_customer_analysis.png)
+
+### Q11: Product Revenue Ranking Using CTE and RANK()
+
+![CTE and Ranking](screenshots/05_cte_analysis.png)
+
+### Q12: Month-over-Month Revenue Growth Using LAG()
+
+![Monthly Revenue Growth](screenshots/06_window_functions.png)
+
+### Q21 & Q24: Delivery Performance and Review Scores
+
+![Delivery Analysis](screenshots/07_delivery_analysis.png)
+
+### Q25: Overall Business Performance Summary
+
+![Final SQL Summary](screenshots/08_final_summary.png)
+
 ## Conclusion
 
 This project demonstrates practical SQL skills for analyzing e-commerce data, measuring business performance, and extracting insights that can support data-driven decisions.
