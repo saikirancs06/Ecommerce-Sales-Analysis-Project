@@ -51,7 +51,7 @@ Analyzed the Olist Brazilian E-Commerce dataset using MySQL to identify sales tr
 
 ## Project Files
 
-* `olist_ecommerce_sales_analysis.sql` — SQL queries used for the analysis.
+* `E-Commerce Sales Analysis Project.sql` — SQL queries used for the analysis.
 * `README.md` — Project documentation.
 
 ## Conclusion
