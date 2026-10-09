@@ -66,7 +66,8 @@ The dataset includes customer, order, product, seller, payment, review, and rela
 
 ### Q1 & Q2: Total Revenue and Total Orders
 
-![Revenue and Orders](screenshots/01_revenue_analysis.png)
+![Revenue and Orders](screenshots/01_revenue_analysis-1.png)
+![Revenue and Orders](screenshots/01_revenue_analysis-2.png)
 
 ### Q4: Top 10 Products by Revenue
 
@@ -78,7 +79,8 @@ The dataset includes customer, order, product, seller, payment, review, and rela
 
 ### Q14 & Q15: Customer Count and Revenue by State
 
-![State Analysis](screenshots/04_customer_analysis.png)
+![State Analysis](screenshots/04_customer_analysis-1.png)
+![State Analysis](screenshots/04_customer_analysis-2.png)
 
 ### Q11: Product Revenue Ranking Using CTE and RANK()
 
@@ -90,7 +92,8 @@ The dataset includes customer, order, product, seller, payment, review, and rela
 
 ### Q21 & Q24: Delivery Performance and Review Scores
 
-![Delivery Analysis](screenshots/07_delivery_analysis.png)
+![Delivery Analysis](screenshots/07_delivery_analysis-1.png)
+![Delivery Analysis](screenshots/07_delivery_analysis-2.png)
 
 ### Q25: Overall Business Performance Summary
 
