@@ -54,6 +54,14 @@ Analyzed the Olist Brazilian E-Commerce dataset using MySQL to identify sales tr
 * `E-Commerce Sales Analysis Project.sql` — SQL queries used for the analysis.
 * `README.md` — Project documentation.
 
+## Dataset
+
+The project uses the Olist Brazilian E-Commerce Public Dataset, available on Kaggle.
+
+Dataset source: https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce
+
+The dataset includes customer, order, product, seller, payment, review, and related e-commerce information.
+
 ## Conclusion
 
 This project demonstrates practical SQL skills for analyzing e-commerce data, measuring business performance, and extracting insights that can support data-driven decisions.
